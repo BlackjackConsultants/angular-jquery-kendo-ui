@@ -1,4 +1,5 @@
 # AngularJqueryApp
+IMPORTANT: NEED TO COPY AND PAST THE CODE IN TEH CONSOLE AND IT WILL WORK!!!!!!
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
 
